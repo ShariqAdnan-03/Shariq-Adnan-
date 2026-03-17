@@ -4,7 +4,7 @@
 
 I'm a Computer Science & Engineering graduate (VIT Vellore, 2025) currently specialising in Data Science and AI/ML at Boston Institute of Analytics, Bengaluru. Actively looking for entry-level roles in **Data Science**, **ML Engineering**, and **Data Analytics**.
 
-[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ShariqAdnan-03/Shariq-Adnan-/raw/main/Shariq .pdf)
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ShariqAdnan-03/Shariq-Adnan-/raw/main/Shariq%20.pdf)
 
 ---
 
